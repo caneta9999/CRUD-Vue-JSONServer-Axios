@@ -1,0 +1,16 @@
+{
+  "videos": [
+    {
+      "nome": "Vídeo 1",
+      "nota": 5,
+      "descricao": "Primeiro vídeo do canal...",
+      "id": 1
+    },
+    {
+      "nome": "Vídeo 2",
+      "nota": 4,
+      "id": 7,
+      "descricao": "Segundo vídeo do canal..."
+    }
+  ]
+}
